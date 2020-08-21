@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- Edited By POOL -->
+<!DOCTYPE POOLFILECATALOG SYSTEM "InMemory">
+<POOLFILECATALOG>
+  <File ID="7F3A9A80-02C0-9C4C-8A96-788941C5F531">
+    <physical>
+      <pfn filetype="ROOT_All" name="/home/shiomi/ATLAS/L1residualforRun-3/residualforRun-2/L1TGCNtupleforRun3/data/user.shiomi/user.shiomi.20925697.EXT0._000010.ESD.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+</POOLFILECATALOG>
